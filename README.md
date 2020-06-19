@@ -1,3 +1,3 @@
 # VirusCapitalist
 Projet AOS
-Rayane Benabdeljalil @ Steve Jeandet
+Rayane Benabdeljalil & Steve Jeandet
